@@ -1,2 +1,2 @@
 # DSA
-this for DSA preparation and practice .
+This for DSA preparation and practice .
